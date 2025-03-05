@@ -1,3 +1,4 @@
 # e-commerce-furniture-website
-Created a e-commerce Furniture website, named Urban Luxe using html and css
-Live project link:
+Created an e-commerce Furniture website, named Urban Luxe using html and css
+
+Live project link: https://ankitab2911.github.io/e-commerce-furniture-website/
